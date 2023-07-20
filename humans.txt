@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sandip Samantaray	samantaray.sandip@gmail.com		@awesomesan
 
 # THANKS
 
